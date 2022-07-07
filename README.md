@@ -1,2 +1,2 @@
 # it_sector_test
- Test app
+ A basic app that shows a photo library and its details from a json API.
